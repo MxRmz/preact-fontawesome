@@ -1,5 +1,5 @@
 {
-  "name": "@aduh95/preact-fontawesome",
+  "name": "preact-fontawesome",
   "description": "Unofficial Preact component for Font Awesome 5",
   "version": "0.1.5",
   "main": "index.js",
@@ -30,7 +30,7 @@
     "lint": "eslint src",
     "prettier": "pretty-quick src --staged",
     "precommit": "npm run lint && npm run prettier && lint-staged",
-    "prepack": "npm run dist",
+    "prepare": "npm run dist",
     "test": "jest",
     "clean": "rm -f index.js && rm -f index.es.js"
   },
