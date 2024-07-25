@@ -579,3 +579,4 @@ The Font Awesome team:
 ## Releasing this project (only project owners can do this)
 
 See [DEVELOPMENT.md](DEVELOPMENT.md#release)
+change
